@@ -19,11 +19,11 @@ Each podcast is organized in the same way.
 - Commercial break 
 - Reintroduction of topic 
 - Next speaker introduction 
+I personally like this template because it's easy to follow and it's clear the podcast has been refined to include only important information. There are no wasted minutes with extra nonessential information. The infomation is also presented in a topical pattern, each speaker has a specific subcatagory within the topic of interest.  
 
-```markdown
-Syntax highlighted code block
+## Style
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
