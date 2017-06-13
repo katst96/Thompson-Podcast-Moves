@@ -1,6 +1,6 @@
 # A Very Detailed Podcast Review of *TED Radio Hour*
 
-![Image of Podcast] (this PC/Documents/Summer 2017/TED Radio Hour)
+![Image of Podcast] (/Documents/Summer 2017/TED Radio Hour)
 
 *TED Radio Hour* is a subsidiary of National Public Radio (NPR) and is hosted by Guy Raz. I've listened to several of their podcasts so far including "Success," "How We Love," and "What is Beauty" which were all about 53 minutes in length. 
 
