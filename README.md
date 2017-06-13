@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# A Very Detailed Podcast Review of *TED Radio Hour*
 
-You can use the [editor on GitHub](https://github.com/katst96/Thompson-Podcast-Moves/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*TED Radio Hour* is a subsidiary of National Public Radio (NPR) and is hosted by Guy Raz. I've listened to three of their podcasts so far including "Success," "How We Love," and "What is Beauty" which were all about 53 minutes in length. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*TED Radio Hour* delves further into the concepts established in TED Talks. Each show is centered on common topic of interest where the speakers of TED talks elaborate on the topics covered in their individual talks. 
 
 ### Markdown
 
