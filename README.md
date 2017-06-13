@@ -36,7 +36,7 @@ I personally like this template because it's easy to follow and it's clear the p
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.npr.org/podcasts/510298/ted-radio-hour) and ![Image](src)
+To check out the podcast for yourself, click [here](http://www.npr.org/podcasts/510298/ted-radio-hour) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
