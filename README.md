@@ -4,7 +4,7 @@
 
 *TED Radio Hour* is a subsidiary of National Public Radio (NPR) and is hosted by Guy Raz. I've listened to several of their podcasts so far including "Success," "How We Love," and "What is Beauty" which were all about 53 minutes in length. 
 
-*TED Radio Hour* delves further into the concepts established in TED Talks. Each show is centered on common topic of interest where the speakers of TED talks elaborate on the topics covered in their individual talks. 
+*TED Radio Hour* delves further into the concepts established in TED Talks. Each show is centered on a common topic of interest where the speakers of TED talks elaborate on the topics covered in their individual talks. 
 
 ## Organization and Pattern
 
@@ -32,26 +32,20 @@ The podcast also adds sound effects to help the listener better visualize a spec
 
 I found these to be true in every podcast I listened to.
 
-## Header 2
-### Header 3
+## Narrative Types
 
-- Bulleted
-- List
+This podcast effectively uses narration, interview, and archival material in the following order:
 
-1. Numbered
-2. List
+### Pattern
+- Narration
+- Archival material
+- Interview
+- Archical material
+- Interview
+- Narration
 
-**Bold** and _Italic_ and `Code` text
-
-To check out the podcast for yourself, click [here](http://www.npr.org/podcasts/510298/ted-radio-hour) and ![Image](src)
+I find this circular narrative pattern to be useful in simply following the podcast. The listener is debriefed at the beginning and ending of each subcatagory segment. 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katst96/Thompson-Podcast-Moves/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To check out the podcast for yourself, click [here](http://www.npr.org/podcasts/510298/ted-radio-hour) 
