@@ -2,7 +2,7 @@
 
 ![Alt Text] (http://media.npr.org/assets/img/2015/03/18/ted_sq-3426270a541795b78233a698dd7965d407545cf3-s700-c85.jpg)
 
-*TED Radio Hour* is a subsidiary of National Public Radio (NPR) and is hosted by Guy Raz. I've listened to three of their podcasts so far including "Success," "How We Love," and "What is Beauty" which were all about 53 minutes in length. 
+*TED Radio Hour* is a subsidiary of National Public Radio (NPR) and is hosted by Guy Raz. I've listened to several of their podcasts so far including "Success," "How We Love," and "What is Beauty" which were all about 53 minutes in length. 
 
 *TED Radio Hour* delves further into the concepts established in TED Talks. Each show is centered on common topic of interest where the speakers of TED talks elaborate on the topics covered in their individual talks. 
 
@@ -26,6 +26,11 @@ I personally like this template because it's easy to follow and it's clear the p
 
 ## Style
 
+This podcast uses background music heavily throughout the entire show. The selection of music seems to correspond with what is actually being said in the podcast in hopes to grab listener's emotions more. For example, the show uses a meloncholy riff when talking about Failures in love and being dumped, but uses a higher toned song for a funny segment on calculating love with codes and programs. 
+
+The podcast also adds sound effects to help the listener better visualize a specific situation being explained. For example, the iPhone text notification is used several times to simulate the feeling of getting a text like the study being discussed. 
+
+I found these to be true in every podcast I listened to.
 
 ## Header 2
 ### Header 3
