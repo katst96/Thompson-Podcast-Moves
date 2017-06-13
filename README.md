@@ -4,9 +4,21 @@
 
 *TED Radio Hour* delves further into the concepts established in TED Talks. Each show is centered on common topic of interest where the speakers of TED talks elaborate on the topics covered in their individual talks. 
 
-### Markdown
+## Organization and Pattern
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Each podcast is organized in the same way.
+- Podcast sponsor ad 
+- Introduction to topic of discussion
+- Catchy title sequence 
+- Speaker introduction by Guy Raz
+- Relevant snippet of TED Talk 
+- Speaker analyis of snippet and remarks on topic of interest
+- Promted questions by Guy Raz
+- Speaker responses
+- Closing remarks by Guy 
+- Commercial break 
+- Reintroduction of topic 
+- Next speaker introduction 
 
 ```markdown
 Syntax highlighted code block
